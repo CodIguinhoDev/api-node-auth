@@ -16,12 +16,6 @@ O projeto foi desenvolvido com foco em boas práticas de arquitetura, separaçã
 ![Cadastro](https://github.com/user-attachments/assets/b568b939-927a-485d-9acd-68affbd91981)
 
 ---
-
-## Usuário salvo no MongoDB
-
-![Mongo](https://github.com/user-attachments/assets/903b6e30-1017-47b2-bb8c-717f8ff5c7b6)
----
-
 ## Token JWT retornado
 
 ![Token](https://github.com/user-attachments/assets/a494645c-bbb9-429f-91ba-0300ec985011)
@@ -31,6 +25,12 @@ O projeto foi desenvolvido com foco em boas práticas de arquitetura, separaçã
 ## Login realizado
 
 ![Login](https://github.com/user-attachments/assets/450bc36b-ed66-441f-967f-75888741ef44)
+
+---
+
+## Usuário salvo no MongoDB
+
+![Mongo](https://github.com/user-attachments/assets/903b6e30-1017-47b2-bb8c-717f8ff5c7b6)
 
 ---
 
